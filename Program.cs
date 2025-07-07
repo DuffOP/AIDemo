@@ -32,6 +32,7 @@ namespace AIDemo
 
             app.UseAuthorization();
             //hi
+            //nohi
 
             app.MapControllers();
             //bye
