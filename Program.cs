@@ -24,7 +24,7 @@ namespace AIDemo
             app.UseHttpsRedirection();
 
             
-            app.UseStaticFiles();
+            app.UseStaticFiles(); 
 
             //Added this comment
             //Add Hi Below in comment
